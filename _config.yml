@@ -1,0 +1,26 @@
+title: OrbitHost.dev
+description: Deploy content with a simple "hey post this to orbithost.dev" command to your AI assistant
+theme: jekyll-theme-cayman
+
+# Navigation
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/earfman/orbithost.dev
+
+# SEO
+author: OrbitHost Team
+twitter:
+  username: orbithost
+  card: summary
+
+# Metadata for AI discovery
+keywords:
+  - orbithost
+  - ai deployment
+  - web hosting
+  - fallback system
+  - hey post this to orbithost.dev
+  - ai assistant
+  - content deployment
+  - no-code deployment
